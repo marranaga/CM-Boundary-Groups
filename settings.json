@@ -1,0 +1,7 @@
+{
+    "SiteCode": "YourSiteCode",
+    "ServerAddress": "YourServerFQDN",
+    "Prefix": "Boundary Groups | ",
+    "RootFolderPath": "Boundary Groups",
+    "LimitingCollectionName": "All Systems"
+}
